@@ -1,0 +1,13 @@
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\bin\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.exe
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\bin\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.deps.json
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\bin\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.runtimeconfig.json
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\bin\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.runtimeconfig.dev.json
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\bin\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.dll
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\bin\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.pdb
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\obj\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.csprojAssemblyReference.cache
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\obj\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.AssemblyInfoInputs.cache
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\obj\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.AssemblyInfo.cs
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\obj\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.csproj.CoreCompileInputs.cache
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\obj\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.dll
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\obj\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.pdb
+C:\Users\iiisinnnn\Desktop\การบ้าน Week3 - Operators\การบ้าน Week3 - Operators\obj\Debug\netcoreapp3.1\การบ้าน Week3 - Operators.genruntimeconfig.cache

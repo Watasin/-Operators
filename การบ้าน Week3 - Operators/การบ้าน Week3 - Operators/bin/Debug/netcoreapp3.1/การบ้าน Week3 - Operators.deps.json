@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "การบ้าน Week3 - Operators/1.0.0": {
+        "runtime": {
+          "การบ้าน Week3 - Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "การบ้าน Week3 - Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
